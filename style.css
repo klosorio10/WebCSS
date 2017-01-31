@@ -1,0 +1,46 @@
+h1,h2 {
+	font-family: "Bebas Neue",arial,serif;
+	color:white;
+}
+h3{
+	font-color:rgb(125,217,195);
+}
+div.ini{
+	background-color: black;
+    color: white;
+    margin: 0px 0 0px 0;
+    padding: 50px;
+}
+div.tweet{
+	background-color: white;
+    margin: 20px 0 20px 0;
+    padding: 50px;
+    width: 300px;
+    float:left;
+}
+.tweet_img {
+    width: 40%;
+    PADDING: initial;
+    float: left;
+}
+
+.tweet_name{
+    float: left;
+}
+
+.tweet_text{
+    float: left;
+}
+
+.tweet_date{
+    float: left;
+}
+
+img{
+	border-radius: 80%;
+	width: 100px;
+}
+
+*{
+	font-family: arial,serif;
+}
